@@ -429,6 +429,7 @@ a:focus {
   padding: 20px;
   border-radius: 5px;
   height: 50vh;
+  overflow: auto;
 }
 
 .service_section .box .img-box {
