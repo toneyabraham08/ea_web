@@ -447,6 +447,8 @@ a:focus {
   margin-bottom: 15px;
 }
 
+
+
 .service_section .box .img-box img {
   max-width: 100%;
   max-height: 100%;
@@ -463,6 +465,7 @@ a:focus {
   color: #00204a;
   font-weight: 600;
 }
+
 
 .service_section .box .detail-box a:hover {
   color: #00bbf0;
@@ -963,6 +966,33 @@ a:focus {
 .loader img {
   width: 280px;
 }
+
+.service_section .box .img-cusbox {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  width: 125px;
+  min-width: 75px;
+  height: 175px;
+  margin-bottom: 15px;
+}
+.service_section .box .img-cusbox:hover {
+  background-color: #2980b9; /* New background color on hover */
+}
+.service_section .box .img-cusbox img {
+  max-width: 100%;
+  max-height: 100%;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  /* background-color: #002b64; */
+}
+
 /* On screens that are 992px or less, set the background color to blue */
 @media screen and (max-width: 400px) {
   .navbar-brand span {
