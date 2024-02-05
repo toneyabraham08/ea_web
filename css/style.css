@@ -432,6 +432,10 @@ a:focus {
   overflow: auto;
 }
 
+.service_section .box::-webkit-scrollbar {
+  display: none;
+}
+
 .service_section .box .img-box {
   display: -webkit-box;
   display: -ms-flexbox;
