@@ -987,9 +987,12 @@ a:focus {
   height: 175px;
   margin-bottom: 15px;
 }
-.service_section .box .img-cusbox:hover {
-  background-color: #2980b9; /* New background color on hover */
-}
+/* .service_section .box .img-cusbox:hover {
+  /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);New background color on hover */
+  /* box-shadow: 0 5px 10px 1px #00204a; */
+  /* border: 2px solid #00204a; 
+  border-radius: 50%;
+} */
 .service_section .box .img-cusbox img {
   max-width: 100%;
   max-height: 100%;
