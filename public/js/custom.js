@@ -16,6 +16,8 @@ $(".client_owl-carousel").owlCarousel({
     nav: true,
     navText: [],
     autoplay: true,
+    autoplayTimeout:700,
+    // slideSpeed:10,
     autoplayHoverPause: true,
     navText: [
         '<i class="fa fa-angle-left" aria-hidden="true"></i>',
