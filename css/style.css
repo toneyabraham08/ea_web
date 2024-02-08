@@ -627,12 +627,12 @@ a:focus {
 .why_section .btn-box a:hover {
   background-color: #007fa4;
 }
-.why_section .why_cus .detail-box h5{
+/* .why_section .why_cus .detail-box h5{
   color: white;
 }
 .why_section .why_cus .detail-box p{
   color: rgb(209, 219, 219);
-}
+} */
 
 /*contact section */
 .contact_section {
