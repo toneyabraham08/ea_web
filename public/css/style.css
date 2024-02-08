@@ -475,9 +475,7 @@ a:focus {
   font-weight: bold;
   text-transform: uppercase;
 }
-.service_section .box .detail-box p{
-  text-align: justify;
-}
+
 .service_section .box .detail-box a {
   color: #00204a;
   font-weight: 600;
@@ -486,9 +484,6 @@ a:focus {
 
 .service_section .box .detail-box a:hover {
   color: #00bbf0;
-}
-.service_section .box .detail-box li{
-  text-align: left;
 }
 
 .service_section .btn-box {
@@ -541,7 +536,6 @@ a:focus {
 
 .about_section .detail-box p {
   margin-top: 15px;
-  text-align: justify;
 }
 
 .about_section .detail-box a {
@@ -635,11 +629,10 @@ a:focus {
 }
 /* .why_section .why_cus .detail-box h5{
   color: white;
-} */
-.why_section .why_cus .detail-box p{
-
-  text-align: justify;
 }
+.why_section .why_cus .detail-box p{
+  color: rgb(209, 219, 219);
+} */
 
 /*contact section */
 .contact_section {
